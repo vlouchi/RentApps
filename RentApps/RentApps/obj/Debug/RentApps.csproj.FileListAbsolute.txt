@@ -71,3 +71,6 @@ F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.dll
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.pdb
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.InitialModel.resources
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.csproj.GenerateResource.Cache
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.IsSubscribedToCustomer.resources
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.AddMembershipType.resources
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.PopulateMembershipTypes.resources

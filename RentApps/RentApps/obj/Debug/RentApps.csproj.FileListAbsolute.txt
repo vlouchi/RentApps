@@ -69,3 +69,5 @@ F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.csprojResolveAssemblyReference.ca
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.csproj.CoreCompileInputs.cache
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.dll
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.pdb
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.InitialModel.resources
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.csproj.GenerateResource.Cache

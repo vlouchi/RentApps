@@ -77,3 +77,7 @@ F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.PopulateMembershipType
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.ApplyAnnotationsToCustomerName.resources
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.AddNameToMembershipType.resources
 F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.SetNameOfMembershipTypes.resources
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.AddBirthdateToCustomer.resources
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.SetBirthdateToCustomer.resources
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.Genres.resources
+F:\WebApp\RentApps\RentApps\obj\Debug\RentApps.Migrations.AddMovies.resources
